@@ -1,0 +1,44 @@
+/*
+    Name: Augusto Araujo Peres Goncalez
+    Assignment: Assignment 6
+    Program: Computer Systems Technology – Systems Analyst
+    Date: 07/25/17
+
+    Description:
+    Description: This is the page that contains the styles for the web site
+    Files: index.html - the page that contains the content of the game
+    arrays.php - contains auxiliary arrays to be used in the index
+*/
+
+/* basic element rules */
+body {
+    font: 16px Arial, sans-serif;
+}
+
+h1 {
+    font-size: 1.5em;
+    border-top: 2px solid darkgreen;
+    border-bottom: 2px solid darkgreen;
+}
+
+img {
+    padding: 5px;
+}
+
+.play-container {
+    display: inline-block;
+}
+/* for some of the game headers */
+.game-header {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin: 15px 5px;
+}
+
+/* formatting for the score box */
+.score {
+    border: 1px dashed darkgreen;
+    background-color: lavender;
+    padding: 10px;
+    width: 75%;
+}
