@@ -1,7 +1,5 @@
 <!--
     Name: Augusto Araujo Peres Goncalez
-    Assignment: Assignment 5
-    Program: Computer Systems Technology – Systems Analyst
     Date: 07/25/17
 
     Description:
